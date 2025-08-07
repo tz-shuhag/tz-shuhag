@@ -9,6 +9,6 @@
 
   <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
   
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/tzshuhag) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/tz-shuhag) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/tz__shuhag) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:tzshuhag18@gmail.com)
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/tzshuhag) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/tz-shuhag) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/tzshuhag) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:tzshuhag18@gmail.com)
 
 </div>
