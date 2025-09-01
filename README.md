@@ -6,6 +6,11 @@
   <a href="https://github.com/tz-shuhag"><img src="https://komarev.com/ghpvc/?username=tz-shuhag&color=brightgreen&style=flat"/><a/>
 </div>
 
+
+
+<div align="center">
+
+
 <details>
   <summary>Education :</summary>
     
@@ -55,6 +60,8 @@
 
 </details>
 
+
+</div>
 
 
 
