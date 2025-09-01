@@ -17,7 +17,7 @@
   <summary><b>📚 Education :</b></summary>
 
  <a href="https://www.sust.edu/">
-  <img src="https://raw.githubusercontent.com/tz-shuhag/coverpage/refs/heads/main/sust.png" 
+  <img src="https://raw.githubusercontent.com/tz-shuhag/tz-shuhag/refs/heads/main/sust.png" 
        alt="SUST" 
        style="width:100px;">
 </a>
