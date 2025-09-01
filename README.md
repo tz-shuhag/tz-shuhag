@@ -14,7 +14,7 @@
 <details>
   <summary>Education :</summary>
     
-<div align="center">
+<h1 align="center">
     
 ***Shahjalal University of Science & Technology***
 
@@ -22,8 +22,7 @@
  
  [ 2024 - Present ]
 
-
-</div>
+</h1>
 
 </details>
 
