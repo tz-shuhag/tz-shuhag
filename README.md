@@ -22,7 +22,7 @@
 </details>
 
 <details>
-  <summary>📞 Contact:</summary>
+  <summary>📞 Contact :</summary>
 
 <div align="center">
     
@@ -44,7 +44,7 @@
 </details>
 
 <details>
-  <summary> 📊 GitHub Stats:</summary>
+  <summary> 📊 GitHub Stats :</summary>
 
 <h1 align="center">
     
