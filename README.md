@@ -15,8 +15,13 @@
 
 <details>
   <summary> 📚 Education :</summary>
-______________________________________
-    
+
+ <a href="https://www.sust.edu/">
+  <img src="https://raw.githubusercontent.com/tz-shuhag/coverpage/refs/heads/main/sust.png" 
+       alt="SUST" 
+       style="width:100px;">
+</a>
+
 ***Shahjalal University of Science & Technology***
 
  **`Dept. of Petroleum & Mining Engeenering`**
