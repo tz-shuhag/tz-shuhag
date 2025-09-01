@@ -21,8 +21,8 @@
 
 </details>
 
-<Contact>
-  <summary>Contact:</summary>
+<details>
+  <summary>📞 Contact:</summary>
 
 <div align="center">
     
@@ -30,7 +30,7 @@
 
 </div>
 
-</contact>
+</details>
 
 <details>
   <summary>💻 Tech Stack :</summary>
