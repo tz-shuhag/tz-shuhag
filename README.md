@@ -22,7 +22,8 @@
 </details>
 
 <details>
-<summary>Contact :</summary>
+  <summary>Education :</summary>
+
   
 <div align="center">
     
