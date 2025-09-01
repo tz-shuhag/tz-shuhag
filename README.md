@@ -30,7 +30,7 @@
 
 </div>
 
-</details>
+</contact>
 
 <details>
   <summary>💻 Tech Stack :</summary>
