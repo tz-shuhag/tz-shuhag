@@ -7,9 +7,9 @@
 </div>
 
 <details>
-  <summary>Education</summary>
+  <summary>Education :</summary>
     
-<h1 align="center">
+<div align="center">
     
 ***Shahjalal University of Science & Technology***
 
@@ -17,19 +17,18 @@
  
  [ 2024 - Present ]
 
- </h1>
+ </div>
 
  </details>
 
 <details>
-  <summary>Contact</summary>
-
+  <summary>Contact :</summary>
   
-<h2 align="center">
+<div align="center">
     
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/tzshuhag) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/tzshuhag) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/tzshuhag) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:tzshuhag18@gmail.com)
 
-</h2>
+</div>
 
 </details>
 
