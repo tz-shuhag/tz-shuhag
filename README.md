@@ -1,10 +1,12 @@
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&repeat=false&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+TZ+Shuhag;" />
-</h1>
 
 <div align="center">
-  <a href="https://github.com/tz-shuhag"><img src="https://komarev.com/ghpvc/?username=tz-shuhag&color=brightgreen&style=flat"/><a/>
+  <a href="https://github.com/tz-shuhag"><img src="https://komarev.com/ghpvc/?username=tz-shuhag&color=brightgreen&style=for-the-badge"/><a/>
 </div>
+</h1>
+
+
 
 
 
@@ -12,7 +14,7 @@
 
 
 <details>
-  <summary> Education :</summary>
+  <summary> 📚 Education :</summary>
 ______________________________________
     
 ***Shahjalal University of Science & Technology***
