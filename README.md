@@ -13,6 +13,7 @@
 
 <details>
   <summary>Education :</summary>
+______________________________________
     
 <div align="center">
     
@@ -28,6 +29,7 @@
 
 <details>
   <summary>📞 Contact :</summary>
+______________________________________
 
 <div align="center">
     
@@ -51,6 +53,7 @@ ______________________________________
 
 <details>
   <summary> 📊 GitHub Stats :</summary>
+______________________________________
 
 <h1 align="center">
     
