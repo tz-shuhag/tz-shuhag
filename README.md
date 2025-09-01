@@ -21,7 +21,7 @@
 
 </details>
 
-<details>
+<Contact>
   <summary>Contact:</summary>
 
 <div align="center">
