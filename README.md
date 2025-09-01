@@ -19,7 +19,7 @@
 
  </div>
 
- </details>
+</details>
 
 <details>
   <summary>Contact :</summary>
