@@ -1,8 +1,8 @@
 <h1 align="center">
-    <a href=""><img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&repeat=false&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+TZ+Shuhag;" /><a/>
+    <a href="#"><img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&repeat=false&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+TZ+Shuhag;" /><a/>
 
 <div align="center">
-  <a href=""><img src="https://komarev.com/ghpvc/?username=tz-shuhag&color=blueviolet&style=for-the-badge"/><a/>
+  <a href="#"><img src="https://komarev.com/ghpvc/?username=tz-shuhag&color=blueviolet&style=for-the-badge"/><a/>
 </div>
 </h1>
 
