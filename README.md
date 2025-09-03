@@ -1,8 +1,8 @@
 <h1 align="center">
-    <a href="#"><img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&repeat=false&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+TZ+Shuhag;" /><a/>
+    <a href=""><img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&repeat=false&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+TZ+Shuhag;" /><a/>
 
 <div align="center">
-  <a href="#"><img src="https://komarev.com/ghpvc/?username=tz-shuhag&color=blueviolet&style=for-the-badge"/><a/>
+  <a href=""><img src="https://komarev.com/ghpvc/?username=tz-shuhag&color=blueviolet&style=for-the-badge"/><a/>
 </div>
 </h1>
 
@@ -16,9 +16,9 @@
 <span>______________________________________</span>
 
  <a href="https://www.sust.edu/">
-  <a href="#"><img src="https://raw.githubusercontent.com/tz-shuhag/tz-shuhag/refs/heads/main/sust.png" 
+  <img src="https://raw.githubusercontent.com/tz-shuhag/tz-shuhag/refs/heads/main/sust.png" 
        alt="SUST" 
-       style="width:100px;"><a/>
+       style="width:100px;">
 </a>
 
 ***Shahjalal University of Science & Technology***
