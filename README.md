@@ -16,7 +16,7 @@
 <span>______________________________________</span>
 
  <a href="https://www.sust.edu/">
-  <img src="https://raw.githubusercontent.com/tz-shuhag/tz-shuhag/refs/heads/main/sust.png" 
+  <img src="https://raw.githubusercontent.com/tz-shuhag/tz-shuhag/refs/heads/main/img/sust.png" 
        alt="SUST" 
        style="width:100px;">
 </a>
@@ -54,6 +54,6 @@
 <a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tz-shuhag&theme=graywhite&hide_border=false&include_all_commits=false&count_private=false&layout=compact" /><a/>
 </details>
 
-
+![](https://raw.githubusercontent.com/tz-shuhag/tz-shuhag/refs/heads/main/img/bottom.svg)
 </div>
 
